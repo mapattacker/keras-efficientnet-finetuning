@@ -14,6 +14,8 @@ import tensorflow as tf
 
 
 def train_val_split(DATA_DIR, IMG_SIZE):
+    """Images of a class to be stored in a subdirectory from DATA_DIR"""
+
     val_data = image_dataset_from_directory(
                     DATA_DIR,
                     labels="inferred",
