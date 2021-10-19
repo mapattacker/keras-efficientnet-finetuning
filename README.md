@@ -8,5 +8,5 @@ Example scripts for transfer learning of EfficientNet with Keras
 
 
 <p align="center">
-    <img src="https://github.com/mapattacker/keras-efficientnet-finetuning/blob/master/flowchart.jpg?raw=true" width=75% />
+    <img src="https://github.com/mapattacker/keras-efficientnet-finetuning/blob/master/flowchart.jpg?raw=true" width=50% />
 </p>
